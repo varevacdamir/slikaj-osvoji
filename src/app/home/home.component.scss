@@ -1,0 +1,41 @@
+Øimg {
+	width: 50%;
+
+	@media (min-width: 1201px) {
+		width: 40%;
+	}
+}
+
+.main-logo {
+	max-height: 512px;
+}
+
+p {
+	text-align: center;
+}
+
+.so-float-copyright {
+	position: fixed;
+	font-size: small;
+	bottom: 0.5rem;
+	right: 0.5rem;
+}
+
+.container {
+	margin-top: 5rem;
+}
+
+.brand-container {
+	margin-top: 3rem;
+
+	i {
+		font-size: xxx-large;
+		margin: 2rem;
+	}
+
+	a {
+		color: white;
+		text-decoration: none;
+		/* Optional: Remove underline */
+	}
+}
