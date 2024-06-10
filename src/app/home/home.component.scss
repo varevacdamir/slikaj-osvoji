@@ -1,13 +1,4 @@
-img {
-	width: 50%;
-
-	@media (min-width: 1201px) {
-		width: 40%;
-	}
-}
-
 .main-logo {
-	max-height: 512px;
 }
 
 p {
@@ -28,17 +19,12 @@ p {
 .brand-container {
 	margin-top: 3rem;
 
-	i {
-		font-size: xxx-large;
-		margin: 2rem;
-	}
-
 	a {
 		color: white;
 		text-decoration: none;
 		display: inline-block;
-		width: 128px;
-		height: 128px;
+		width: 96px;
+		height: 96px;
 		background-size: contain;
 		background-repeat: no-repeat;
 		text-decoration: none;
